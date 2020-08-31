@@ -4,7 +4,7 @@
 
 * ==**SQL** 必考==
 * **E-R Model**
-* **Buffer Management**
+* **Buffer Management** 我个人感觉要考这个
 * ==**Relational Formalization** 必考==
 * **XML** 不一定
 * ==**B+-Tree** 必考==
