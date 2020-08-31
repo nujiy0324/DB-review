@@ -2,15 +2,15 @@
 
 目前来看呢，我认为主要有以下九个部分
 
-* **SQL** 必考
+* ==**SQL** 必考==
 * **E-R Model**
 * **Buffer Management**
-* **Relational Formalization**
+* ==**Relational Formalization** 必考==
 * **XML** 不一定
-* **B+-Tree** 必考
+* ==**B+-Tree** 必考==
 * **Query Processing** 必考
-* **Concurrency Control** 必考
-* **Aries Recovery <<< Transaction Log** 必考
+* ==**Concurrency Control** 必考==
+* ==**Aries Recovery <<< Transaction Log** 必考==
 
 
 
