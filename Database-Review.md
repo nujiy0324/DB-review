@@ -4,7 +4,8 @@
 
 * ==**SQL** 必考==
 * **E-R Model**
-* **Buffer Management** 我个人感觉要考这个
+* **Buffer Management** 我个人感觉要考这个
+* **File Structure**
 * ==**Relational Formalization** 必考==
 * **XML** 不一定
 * ==**B+-Tree** 必考==
@@ -22,6 +23,12 @@
 4. 排序 all 或者order by
 5. 求和 sum
 6. 基本的插入，修改语句
+
+```mysql
+
+```
+
+
 
 ## E-R Model
 
