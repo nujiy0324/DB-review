@@ -13,7 +13,7 @@ SELECT
             Salary
         FROM
             Employee
-        ORDER BY Salary DESC#逆向排序，如果不加的话就是正向排序
+        ORDER BY Salary DESC#逆向排序，如果不加的话就是递增排序
         LIMIT 1 OFFSET 1) AS SecondHighestSalary;、
         
         
