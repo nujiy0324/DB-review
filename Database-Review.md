@@ -24,9 +24,11 @@
 5. 求和 sum
 6. 基本的插入，修改语句
 
-```mysql
+```
 
 ```
+
+
 
 
 
@@ -57,3 +59,14 @@ class 16  1:42::one::five:
 
 ## B+-TREE
 
+## concurrency control
+
+以下都为冲突操作，
+
+==r1(A) w1(A)==
+
+==r1(A) w2(A)==
+
+==w2(A) r1(A)==
+
+==w1(A) w2(A)==
