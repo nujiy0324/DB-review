@@ -2,7 +2,7 @@
 
 目前来看呢，我认为主要有以下九个部分
 
-* ==**SQL** 必考==
+* ==**SQL** 必考==
 * **E-R Model**
 * **Buffer Management** 我个人感觉要考这个
 * **File Structure**
